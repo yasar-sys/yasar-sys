@@ -1,21 +1,19 @@
 <h1 align="center">👋 Hey there, I'm Samin Yasar Sunny</h1>
 
 <p align="center">
-  🎓 Affiliated with: Mymensingh Engineering College, under University of Dhaka (DU)
-  <br>🧠 Dreamer • Programmer • Leader   
-  <br>💻 Building my own J.A.R.V.I.S with AI, Python, and magic  
-  <br>📬 Email: <a href="mailto:saminyasarsunny@gmail.com">saminyasarsunny@gmail.com</a>
+  🎓 CSE Student @ Mymensingh Engineering College (DU)  
+  🧠 Dreamer • Programmer • ISSB Green Card Holder  
+  💻 Building my own J.A.R.V.I.S using Python + AI  
+  📬 Email: <a href="mailto:saminyasarsunny@gmail.com">saminyasarsunny@gmail.com</a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🏷️ Affiliations & Identity
 
-- 🔭 Currently working on: `AI Jarvis`, `WhatsApp Bot`, `C Projects`  
-- 🌱 Currently learning: `C`, `Python`, `OpenAI`, `Tkinter`, `Voice Control`, `GUI Automation`  
-- ⚡ Fun fact: I’m not just coding... I’m **dream-building**  
-- 🪖 Green Card Holder | ISSB Candidate | DEO & Army SSC Aspirant  
-- 🗣️ Languages: Bangla 🇧🇩 | English 🌍 | C | Python
+🎓 Affiliated with: Mymensingh Engineering College (MEC), University of Dhaka  
+🪖 ISSB Green Card Holder (Navy) | DEO & Army SSC Aspirant  
+🧠 Independent Developer | Powered by Python, OpenAI & Vision
 
 ---
 
@@ -29,6 +27,15 @@
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![Speech Recognition](https://img.shields.io/badge/-SpeechRecognition-40C057?style=flat&logo=google)
 ![Pyttsx3](https://img.shields.io/badge/-TTS-pyttsx3-orange)
+
+---
+
+## 🚀 My Projects
+
+- 🔧 [Jarvis AI Assistant](https://github.com/yasar-sys/jarvis-ai)
+- 🎮 [Snake Game - Modern UI](https://github.com/yasar-sys/snake-game)
+- 📘 [C Programming (MEC Lab)](https://github.com/yasar-sys/cse1201-c-lab)
+- 💬 [WhatsApp Voice Bot](https://github.com/yasar-sys/whatsapp-bot)
 
 ---
 
@@ -71,7 +78,7 @@
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=31xqz2ytd7knkl2qckw7ymftbjuq&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=true" />
 </p>
 
-> 🎵 (You must be logged into Spotify on your PC with scrobbling enabled.)
+> 🎵 (Make sure your Spotify is open with “Recently Played” enabled.)
 
 ---
 
@@ -91,26 +98,31 @@
 
 ---
 
-## 📌 Pinned Projects
-
-- 🔧 [Jarvis AI Assistant](https://github.com/yasar-sys/jarvis-ai)
-- 🎮 [Snake Game - Modern UI](https://github.com/yasar-sys/snake-game)
-- 📘 [C Programming (MEC Lab)](https://github.com/yasar-sys/cse1201-c-lab)
-- 💬 [WhatsApp Voice Bot](https://github.com/yasar-sys/whatsapp-bot)
-
----
-
 ## 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://facebook.com/saminyasarofficial"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=facebook&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/saminyasarsunny"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:saminyasarsunny@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://youtube.com/@yourchannel"><img src="https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube&logoColor=white"/></a>
+  <a href="https://www.facebook.com/share/16eh8m5UWJ/">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/yasar_2.00?igsh=MXZiYnE0N2pzZzZjOA==">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/saminyasarsunny">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:saminyasarsunny@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://youtube.com/@yourchannel">
+    <img src="https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/8801865239302">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=0FF700&background=000000&center=true&vCenter=true&width=435&lines=I+am+not+just+coding...;I+am+building+the+future!;President+in+progress+🇧🇩" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=0FF700&background=000000&center=true&vCenter=true&width=435&lines=I+am+not+just+coding...;I+am+building+the+future!;ISSB+Green+Card+Holder+🇧🇩" />
 </p>
