@@ -107,8 +107,9 @@
   <a href="https://www.instagram.com/yasar_2.00?igsh=MXZiYnE0N2pzZzZjOA==">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/saminyasarsunny">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/samin-yasar-b2ba06239">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/>
+</a>
   </a>
   <a href="mailto:saminyasarsunny@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
