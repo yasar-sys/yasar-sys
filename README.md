@@ -2,7 +2,7 @@
 
 <p align="center">
   🎓 Affiliated with: Mymensingh Engineering College, under University of Dhaka (DU)
-  <br>🧠 Dreamer • Programmer • Leader •   
+  <br>🧠 Dreamer • Programmer • Leader   
   <br>💻 Building my own J.A.R.V.I.S with AI, Python, and magic  
   <br>📬 Email: <a href="mailto:saminyasarsunny@gmail.com">saminyasarsunny@gmail.com</a>
 </p>
