@@ -1,4 +1,4 @@
-<h1 align="center">MYSELF  Samin Yasar Sunny</h1>
+<h1 align="center">Myself Samin Yasar Sunny</h1>
 
 <p align="center">
   🎓 CSE Student @ Mymensingh Engineering College (DU)  
