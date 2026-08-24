@@ -120,8 +120,18 @@ whoami:
 
 <br/>
 
+<div align="center">
+
+### 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/yasar-sys/yasar-sys/output/github-contribution-grid-snake.svg" width="90%"/>
+
+</div>
+
+<br/>
+
 <details>
-<summary><b>🐍 Contribution Snake</b> (auto-generated via GitHub Actions — click to expand)</summary>
+<summary><b>⚙️ How this snake is generated</b> (click to expand)</summary>
 <br/>
 
 Add this at `.github/workflows/snake.yml` to get an animated snake eating your contribution graph:
@@ -154,11 +164,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-Then embed it:
-
-```md
-![snake](https://raw.githubusercontent.com/yasar-sys/yasar-sys/output/github-contribution-grid-snake.svg)
-```
+The image above is already embedded and pulling live from your `output` branch — no further action needed.
 
 </details>
 
